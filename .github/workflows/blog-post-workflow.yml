@@ -24,7 +24,7 @@ jobs:
           feed_list: "https://rinzemoon.top/feed.xml"
           max_post_count: 5
           date_format: "yyyy/mm/dd"
-          template: "<tr><td bgcolor='#faf8f5'><b>📝 <a href='$url'>$title</a></b><br><sub>&nbsp;&nbsp;$date</sub></td></tr><tr><td height='6'></td></tr>$newline"
+          template: "<table><tr><td bgcolor='#faf8f5'><b>📝 <a href='$url'>$title</a></b><br><sub>&nbsp;&nbsp;$date</sub></td></tr></table>$newline"
           commit_message: "📝 docs: auto-update README with latest blog posts"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
