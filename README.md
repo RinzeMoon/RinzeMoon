@@ -101,6 +101,19 @@
 
 ---
 
+### 📊 GitHub 统计 / Stats
+
+<div align="center">
+
+<!-- streak-stats — demolab.com，国内可访问 -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=RinzeMoon&theme=default&hide_border=true&locale=zh&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
 ### 📝 博客 / Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
