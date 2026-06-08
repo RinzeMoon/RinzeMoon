@@ -116,7 +116,10 @@
 
 ### 📝 博客 / Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- <a href="https://rinzemoon.top/article/articles/Demux" target="_blank">复用、解码流程与渲染的设计 Ⅰ</a> — `2026/05/31`- <a href="https://rinzemoon.top/article/articles/Build" target="_blank">论 Cache</a> — `2026/05/30`- <a href="https://rinzemoon.top/article/articles/update" target="_blank">形象更新 #1</a> — `2026/05/30`- <a href="https://rinzemoon.top/article/articles/mylife" target="_blank">残香</a> — `2026/05/21`- <a href="https://rinzemoon.top/article/articles/vertical-test" target="_blank">竖排文字测试</a> — `2026/05/16`<!-- BLOG-POST-LIST:END -->
+<table align="center" cellpadding="12" cellspacing="0" width="100%">
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</table>
 
 <p align="center">
   <a href="https://rinzemoon.top/">→ 浏览全部文章</a>
