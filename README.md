@@ -51,7 +51,7 @@
 
 ### 🙋‍♂️ 关于我 / About Me
 
-> 音视频开发者，专注于 **C++ / Qt / FFmpeg**，在 Ubuntu 上构建多媒体应用。
+> 客户端 & 音视频开发者，专注于 **C++ / Qt / FFmpeg**，在 Ubuntu 上构建多媒体应用。
 >
 > 写技术博客，也记录日常。简洁即美，秩序即自由。
 >
@@ -125,7 +125,7 @@
   <path d="M 0 25 Q 200 5 400 25 T 800 15 L 800 90 L 0 90 Z" fill="url(#wf)"/>
   <text x="400" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#b5aca0" font-style="italic">她的悲傷像泡沫裏溢出的海
 </text>
-  <text x="400" y="72" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="9.5" fill="#c8c1b5">Make each day a good day</text>
+  <text x="400" y="72" text-anchor="middle" font-family="'Microsoft YaHei', sans-serif" font-size="9.5" fill="#c8c1b5">@Rinzemoon</text>
 </svg>
 
 
