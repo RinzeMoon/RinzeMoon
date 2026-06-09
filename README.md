@@ -116,11 +116,11 @@
 
 ### 📝 博客 / Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/Demux'>复用、解码流程与渲染的设计 Ⅰ</a></b><br><sub>&nbsp;&nbsp;2026/05/31</sub></td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/GitHubProf'>GitHub个人页更新！</a></b><br><sub>&nbsp;&nbsp;2026/06/08</sub></td></tr></table>
+<table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/gl'>OpenGL着色器设计</a></b><br><sub>&nbsp;&nbsp;2026/06/08</sub></td></tr></table>
+<table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/Demux'>复用、解码流程与渲染的设计 Ⅰ</a></b><br><sub>&nbsp;&nbsp;2026/05/31</sub></td></tr></table>
 <table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/Build'>论 Cache</a></b><br><sub>&nbsp;&nbsp;2026/05/30</sub></td></tr></table>
 <table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/update'>形象更新 #1</a></b><br><sub>&nbsp;&nbsp;2026/05/30</sub></td></tr></table>
-<table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/mylife'>残香</a></b><br><sub>&nbsp;&nbsp;2026/05/21</sub></td></tr></table>
-<table><tr><td bgcolor='#faf8f5'><b>📝 <a href='https://rinzemoon.top/article/articles/vertical-test'>竖排文字测试</a></b><br><sub>&nbsp;&nbsp;2026/05/16</sub></td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
